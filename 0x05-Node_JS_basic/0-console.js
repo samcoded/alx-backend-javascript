@@ -4,7 +4,7 @@
  * @author Samuel <https://github.com/samcoded>
  */
 const displayMessage = (msg) => {
-    console.log(msg);
+  console.log(msg);
 };
 
 module.exports = displayMessage;
