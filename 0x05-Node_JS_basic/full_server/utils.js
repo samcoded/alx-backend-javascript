@@ -3,7 +3,7 @@ import fs from 'fs';
 /**
  * Reads the data of students in a CSV data file.
  * @param {String} dataPath The path to the CSV data file.
- * @author ogwalu chidozie <https://github.com/gentomacine>
+ * @author Samuel Anozie <https://github.com/samcoded>
  * @returns {Promise<{
  *   String: {firstname: String, lastname: String, age: number}[]
  * }>}
